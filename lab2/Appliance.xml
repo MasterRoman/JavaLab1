@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <appliance type="kettle">
+        <title>LG</title>
+        <price>5</price>
+        <mark>GGG</mark>
+    </appliance>
+    <appliance type="fridge">
+        <title>L</title>
+        <price>25</price>
+        <weight>20</weight>
+    </appliance>
+    <appliance type="tv">
+        <title>S</title>
+        <price>15</price>
+        <resolution>100</resolution>
+    </appliance>
+    <appliance type="computer">
+        <title>Apple</title>
+        <price>10000</price>
+        <cpu>M1</cpu>
+    </appliance>
+    <appliance type="kettle">
+
+        <price>6</price>
+        <mark>sadas</mark>
+    </appliance>
+    <appliance type="kettle">
+        <title>Apple</title>
+        <price>50</price>
+        <mark>fasfasf</mark>
+    </appliance>
+</root>

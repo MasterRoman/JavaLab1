@@ -3,7 +3,7 @@ package entity;
 public class Fridge extends Appliance {
     private int weight;
     public Fridge(String title,int price,int weight) {
-        super(ApplianceType.Computer, title, price);
+        super(ApplianceType.Fridge, title, price);
         this.weight = weight;
     }
 

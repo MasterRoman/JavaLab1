@@ -1,17 +1,17 @@
 package entity;
 
 public class TV extends Appliance{
-    private String rezalution;
-    public TV(String title,int price,String rezalution) {
+    private String resolution;
+    public TV(String title,int price,String resolution) {
         super(ApplianceType.TV,title, price);
-        this.rezalution = rezalution;
+        this.resolution = resolution;
     }
 
-    public String getRezalution() {
-        return rezalution;
+    public String getRezolution() {
+        return resolution;
     }
 
-    public void setRezalution(String rezalution) {
-        this.rezalution = rezalution;
+    public void setRezolution(String resolution) {
+        this.resolution = resolution;
     }
 }
