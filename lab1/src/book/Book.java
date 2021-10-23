@@ -9,7 +9,6 @@ public class Book implements Comparable<Book> {
     private int price;
     private int isbn;
     private static int edition;
-
     private static int count = 0;
 
     public Book(String title,String author,int price) {
